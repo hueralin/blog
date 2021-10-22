@@ -1,5 +1,5 @@
 baseurl = "https://timelyrain.top/"
-title = "狐耳"
+title = "hueralin's Blog"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
@@ -34,7 +34,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Params]
   authorbox = true
-  description = "John Doe's Personal blog about everything" # Description of your site
+  description = "hueralin;blog;fe;front end;" # Description of your site
   copyright = "hueralin"
   opengraph = true
   pager = true
@@ -42,6 +42,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   toc = true # Enable Table of Contents
 
 [Params.logo]
+  title = "Lucky Code"
   subtitle = "给岁月以文明，而不是给文明以岁月" # Logo subtitle
 
 [Params.thumbnail]
@@ -60,3 +61,9 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Params.widgets.social]
   github = "hueralin" # Enable parts of social widget
+
+[Params.utteranc]
+  enable = true
+  repo = "hueralin/blog"
+  issueTerm = "title"
+  theme = "github-light"
