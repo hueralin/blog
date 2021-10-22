@@ -40,6 +40,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   pager = true
   post_meta = ["date", "categories"] # Order of post meta information
   toc = true # Enable Table of Contents
+  customCSS = ["css/style.css"]
 
 [Params.logo]
   title = "Lucky Code"
