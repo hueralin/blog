@@ -1,3 +1,6 @@
 [submodule "themes/mainroad"]
 	path = themes/mainroad
 	url = git@github.com:Vimux/Mainroad.git
+[submodule "themes/eureka"]
+	path = themes/eureka
+	url = git@github.com:wangchucheng/hugo-eureka.git
